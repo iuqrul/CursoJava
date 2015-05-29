@@ -2,6 +2,10 @@ package peerAssesment1;
 
 public class PA1Main {
 
+	public PA1Main () {
+		
+	}
+	
 	public static void main(String[] args) {
 
 		final double a1 = 0.1;
